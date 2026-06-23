@@ -1,2 +1,18 @@
-# akashvani-live-radio
-Akashvani Live Radio Python application
+# akashvani-radio-live
+Akashvani Radio Live streaming Python application
+
+## download application zip file from releases, extract and run the application
+
+
+## pro usage - install python package from pypi
+
+```shell
+# pip command
+pip install akashvani-radio-live
+# launch the application from command line using python
+python -m akashvani_radio_live.app
+
+# uv command
+uv pip install akashvani-radio-live
+uv run akashvani-radio-live
+```

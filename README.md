@@ -3,6 +3,7 @@ Akashvani Radio Live streaming Python application
 
 ## download application zip file from releases, extract and run the application
 
+https://github.com/chaitu-ycr/akashvani-radio-live/releases
 
 ## pro usage - install python package from pypi
 

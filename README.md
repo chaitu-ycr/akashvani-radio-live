@@ -1,6 +1,6 @@
 # akashvani-radio-live
 
-Akashvani Radio Live streaming Python application
+All India Radio (AIR) Akashvani Radio Live streaming Python application
 
 ## download application zip file from releases, extract and run the application
 

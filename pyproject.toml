@@ -1,6 +1,6 @@
 [project]
 name = "akashvani-radio-live"
-version = "26.1.1"
+version = "26.1.2"
 description = "All India Radio (AIR) Akashvani Radio Live streaming Python application"
 readme = "README.md"
 authors = [
